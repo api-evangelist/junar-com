@@ -1,0 +1,77 @@
+{
+    "name": "Junar.com",
+    "description": "Fast, easy, and affordable way to transform data into resources that businesses, governments, NGOs, academia and citizens can use.",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/827-junar-com.jpg",
+    "tags": [
+        "api service provider",
+        "city government",
+        "dashboards",
+        "data",
+        "graph",
+        "have api",
+        "social"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/junar-com\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "Junar.com",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/827-junar-com.jpg",
+            "humanURL": "http:\/\/www.junar.com",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-postman-collecction",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/junar-com-postman-collection.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Blog",
+            "url": "http:\/\/blog.junar.com"
+        },
+        {
+            "type": "Blog RSS",
+            "url": "http:\/\/blog.junar.com\/rss.xml"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "https:\/\/crunchbase.com\/organization\/junar"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "http:\/\/www.crunchbase.com\/company\/junar"
+        },
+        {
+            "type": "Email",
+            "url": "contact@junar.com"
+        },
+        {
+            "type": "Email",
+            "url": "support@junar.com"
+        },
+        {
+            "type": "Email",
+            "url": "developers@junar.com"
+        },
+        {
+            "type": "Email",
+            "url": "webmaster@junar.com"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/#!\/junar"
+        },
+        {
+            "type": "Website",
+            "url": "http:\/\/www.junar.com"
+        }
+    ]
+}
